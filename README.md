@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Monthly Expenses Trackizer App UI UX Design Convent Into Flutter Code
 
 # codeforany @codeforany
@@ -31,3 +32,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# montly_expenses_trackizer_app_flutter
+>>>>>>> 90d10886a7e6c86ad5770b9dc8ff1deaa99bbd82
